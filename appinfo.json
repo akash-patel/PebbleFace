@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "abp102@scarletmail.rutgers.edu",
+    "longName": "HelloWorld",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "HelloWorld",
+    "uuid": "145f3fb8-62c3-4e99-a6ca-2361a8edb739",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
