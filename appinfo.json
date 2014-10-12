@@ -4,16 +4,22 @@
         ""
     ],
     "companyName": "abp102@scarletmail.rutgers.edu",
-    "longName": "HelloWorld",
+    "longName": "My First App",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/Capture.PNG",
+                "name": "FRAME",
+                "type": "png"
+            }
+        ]
     },
-    "shortName": "HelloWorld",
-    "uuid": "145f3fb8-62c3-4e99-a6ca-2361a8edb739",
+    "shortName": "My First App",
+    "uuid": "35bf1884-9d39-4bbd-a70f-25a57b1f3370",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
